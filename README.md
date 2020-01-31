@@ -5,7 +5,7 @@ Um 'Tinder' para desenvolvedores que utiliza das tecnologias:
   * `ReactJS`
   * `React Native`
  
-Uma projeto completo com [backend](https://github.com/Chris-rod-b/omnistack-08/new/master?readme=1#backend---nodejs), [frontend web](https://github.com/Chris-rod-b/omnistack-08/new/master?readme=1#frontend---reactjs) e uma versão [mobile](https://github.com/Chris-rod-b/omnistack-08/new/master?readme=1#mobile---react-native).
+Uma projeto completo com [backend](https://github.com/Chris-rod-b/omnistack-08#backend---nodejs), [frontend web](https://github.com/Chris-rod-b/omnistack-08#frontend---reactjs) e uma versão [mobile](https://github.com/Chris-rod-b/omnistack-08#mobile---react-native).
 
 ## Backend - Node.js
 
